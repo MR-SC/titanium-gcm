@@ -91,3 +91,5 @@ $data = array(
 Document
 ------------------
    * Website: [http://developer.android.com/guide/google/gcm/index.html]
+   * original repo: [https://github.com/liccowee/Google-Cloud-Messaging--Titanium-]
+   * issue lists: [https://github.com/liccowee/Google-Cloud-Messaging--Titanium-/issues]
